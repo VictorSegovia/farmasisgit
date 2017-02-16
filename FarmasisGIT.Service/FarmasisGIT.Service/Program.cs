@@ -10,6 +10,7 @@ namespace FarmasisGIT.Service
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Inicio de proceso en Desarrollo...");
         }
     }
 }
